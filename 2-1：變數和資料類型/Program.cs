@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            dynamic test = 2;
+            dynamic test = 20;
             Console.WriteLine("Hello, World!");
         }
     }
