@@ -1,0 +1,15 @@
+D:\Git\TestSolution\2-1：變數和資料類型\bin\Debug\net6.0\2-1：變數和資料類型.exe
+D:\Git\TestSolution\2-1：變數和資料類型\bin\Debug\net6.0\2-1：變數和資料類型.deps.json
+D:\Git\TestSolution\2-1：變數和資料類型\bin\Debug\net6.0\2-1：變數和資料類型.runtimeconfig.json
+D:\Git\TestSolution\2-1：變數和資料類型\bin\Debug\net6.0\2-1：變數和資料類型.dll
+D:\Git\TestSolution\2-1：變數和資料類型\bin\Debug\net6.0\2-1：變數和資料類型.pdb
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.csproj.AssemblyReference.cache
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.AssemblyInfoInputs.cache
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.AssemblyInfo.cs
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.csproj.CoreCompileInputs.cache
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.dll
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\refint\2-1：變數和資料類型.dll
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.pdb
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\2-1：變數和資料類型.genruntimeconfig.cache
+D:\Git\TestSolution\2-1：變數和資料類型\obj\Debug\net6.0\ref\2-1：變數和資料類型.dll
